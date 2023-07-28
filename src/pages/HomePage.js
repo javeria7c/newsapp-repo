@@ -1,10 +1,10 @@
 import React from "react";
-import DisplayNews from "../components/DisplayNews";
+import DisplayProducts from "../components/DisplayProducts";
 
 export default function HomePage() {
   return (
     <div className="body">
-      <DisplayNews />
+      <DisplayProducts />
     </div>
   );
 }

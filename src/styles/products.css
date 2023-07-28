@@ -1,0 +1,19 @@
+.card-css {
+  margin: 15px;
+  padding: 5px;
+}
+.card-image {
+  width: 100%;
+}
+.card-body {
+  background-color: #ffffff;
+  width: 100%;
+}
+.product-description {
+  color: black;
+}
+.website-brand {
+  margin: 10px;
+  color: rgb(60, 60, 60);
+}
+
